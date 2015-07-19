@@ -1,0 +1,2 @@
+# HumanResourceManagement
+用java编写的人力资源管理系统，基本功能都已经实现，数据库为oracle
